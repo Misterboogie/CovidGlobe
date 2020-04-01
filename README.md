@@ -1,4 +1,6 @@
 # CovidGlobe is a data visualization project that uses Abdullah Aldandarawy's Unity Globe Data Visualizer.
+https://github.com/Dandarawy/Unity3D-Globe
+
 This project will parse COVID-19 data from the John Hopkins GitHub repository and visualizing with Unity Globe Visualizer.
 https://github.com/CSSEGISandData/COVID-19
 

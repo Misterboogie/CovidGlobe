@@ -5,5 +5,5 @@ https://github.com/CSSEGISandData/COVID-19
 I'm following along with ByteFish's tutorial on parsing the COVID-19 Data with C#.
 https://bytefish.de/blog/parsing_covid_19_data/
 
-
-<img><img>
+  
+  ![Image description](https://github.com/Misterboogie/CovidGlobe/blob/master/Covid01a.png)
